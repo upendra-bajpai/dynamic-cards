@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_swiper_null_safety_flutter3/flutter_swiper_null_safety_flutter3.dart';
 import 'package:melooha/dashboard/components/questions_chatbot.dart';
-import 'package:melooha/utils/expanding_dots.dart';
 import '../utils/consts.dart';
 import 'components/cosmic_daily_forecast_card.dart';
 import 'components/know_yourself_personality.dart';

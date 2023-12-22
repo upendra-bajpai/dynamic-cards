@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:melooha/dashboard/home_screen.dart';
-import 'package:melooha/trial.dart';
-
 import 'utils/consts.dart';
 
 
